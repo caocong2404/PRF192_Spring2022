@@ -1,0 +1,6 @@
+#1: Name: In Search Of Lost Time                        	|	Quantity: 5
+#2: Name: Ulysses                                       	|	Quantity: 7
+#3: Name: The Divine Comedy                             	|	Quantity: 9
+#4: Name: The Great Gatsby                              	|	Quantity: 14
+#5: Name: Anna Karenina                                 	|	Quantity: 16
+#6: Name: The Brothers Karamazov                        	|	Quantity: 23

@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+//viet doan code theo style ham tinh binh phuong ca 1 con so
+//IPO
+/*
+- I: 1 con so x
+- P: x * x
+- O y = x * x
+*/
+int fv4(int x){
+    y = x * x;
+    return y;
+    //return x * x;
+}
+int main(){
+
+int n;
+scanf("%d", &n);
+printf("%d", fv4(n));
+
+//printf("%d", fv4(10));
+ 
+getch();
+return 0;
+}

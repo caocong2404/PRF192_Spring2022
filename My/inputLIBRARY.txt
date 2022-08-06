@@ -1,0 +1,6 @@
+In Search of Lost Time|5
+Ulysses|6
+The Great Gatsby|4
+The Divine Comedy|8
+The Brothers Karamazov|12
+Anna Karenina|2

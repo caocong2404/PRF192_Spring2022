@@ -1,0 +1,2 @@
+Number of value:  10
+Average = 110.462000

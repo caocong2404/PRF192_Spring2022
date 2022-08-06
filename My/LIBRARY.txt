@@ -1,0 +1,2 @@
+#1: Name: Cao Van Cong                                  	|	Quantity: 54
+#2: Name: Nguyen The Truong                             	|	Quantity: 5

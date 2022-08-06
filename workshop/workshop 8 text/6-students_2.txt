@@ -1,0 +1,4 @@
+#1: Joseph          |	12 Le Loi, District 1, TPHCM        |	mark:   9
+#2: Dinh Tan Vu     |	12/66 street 3, Go Vap, TPHCM       |	mark:   8
+#3: Miranda         |	123 Calmette, District 1, HCM City  |	mark:   7
+#4: Celine Dion     |	124 street 8, District 7, HCM City  |	mark:   5
